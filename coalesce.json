@@ -1,0 +1,16 @@
+{
+  "webProject": {
+    "projectFile": "./Paperboy.Web/Paperboy.Web.csproj"
+  },
+  "dataProject": {
+    "projectFile": "./Paperboy.Data/Paperboy.Data.csproj"
+  },
+
+  "rootGenerator": "Vue",
+
+  "generatorConfig": {
+    "Scripts": {
+      "targetDirectory": "../src"
+    }
+  }
+}
